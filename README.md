@@ -10,12 +10,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Siuol7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siuol7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siuol7&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Siuol7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -31,7 +25,7 @@
 </p>
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/images/3a257f1d42be7e9eaf80d3d41bcf5e9f/tenor.gif" alt="coding gif"/>
+  <img height="300" src="https://media.tenor.com/images/9fc4f5c77cfb0385fd9c34d1848b39f2/tenor.gif" alt="coding gif"/>
 </div>
 
 

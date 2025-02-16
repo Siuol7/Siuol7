@@ -31,6 +31,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4cnAyM29wOGRkZ3BydXN5OWthODY0ZjRyNTJtdDd3MXNiaXZ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif](https://tenor.com/view/coding-gif-818238279004381316)"  />
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4cnAyM29wOGRkZ3BydXN5OWthODY0ZjRyNTJtdDd3MXNiaXZ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
 </div>
+
 

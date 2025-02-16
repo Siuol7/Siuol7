@@ -31,7 +31,8 @@
 </p>
 
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4cnAyM29wOGRkZ3BydXN5OWthODY0ZjRyNTJtdDd3MXNiaXZ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
+  <img height="300" src="https://media.tenor.com/images/3a257f1d42be7e9eaf80d3d41bcf5e9f/tenor.gif" alt="coding gif"/>
 </div>
+
 
 

@@ -5,8 +5,8 @@
 
 <h3 align="left">Codewars Badge:</h3>
 <p align="left">
-  <a href="https://www.codewars.com/users/Siuol7/badges/large">
-    <img src="https://www.codewars.com/users/Siuol7/badges/large" alt="Siuol7's Codewars Badge"/>
+  <a href="https://www.codewars.com/users/Gen.Chovy/badges/large">
+    <img src="https://www.codewars.com/users/Gen.Chovy/badges/large" alt="Siuol7's Codewars Badge"/>
   </a>
 </p>
 

@@ -14,9 +14,9 @@
 <img height="300" src="https://media.tenor.com/images/9fc4f5c77cfb0385fd9c34d1848b39f2/tenor.gif" alt="coding gif"/>
 </div>
 
-## 🔗 Explore a curated showcase of my projects—where innovation meets execution. 💻
+## 🔗 Explore a curated showcase of my projects💻
 
-[Click here for a glimpse of my projects!]([https://github.com/user/repo-name](https://github.com/Siuol7/Project-Overview.git))
+[Click here for a glimpse of my projects!](https://github.com/Siuol7/Project-Overview.git)
 
 
 # 📊 GitHub Stats:

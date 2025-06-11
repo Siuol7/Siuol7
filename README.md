@@ -20,7 +20,7 @@
 ###
 
 <h1 align="center">Hi, I'm Cao Tan</h1>
-  <a href="https://github.com/Siuol7/Project-Overview" target="_blank">
+
 ###
 
 <h3 align="left"></h3>
@@ -30,8 +30,6 @@
 <p align="left">- 📚 I'm currently learning at Hive - 42Network<br><br>- Currently I've been working on CPP Modules and heading to ft_irc(Internet Relay Chat)</p>
 
 ###
-
-### [🎨 Projects Gallery](https://github.com/Siuol7/Project-Overview)
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -54,12 +52,14 @@
 </div>
 
 ###
+### 🎨 Projects Gallery 
+### [View all](https://github.com/Siuol7/Project-Overview)
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Siuol7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 

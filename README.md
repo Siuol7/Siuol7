@@ -52,8 +52,8 @@
 </div>
 
 ###
-### 🎨 Projects Gallery 
-### [View all](https://github.com/Siuol7/Project-Overview)
+### 🎨 Projects Gallery [View all](https://github.com/Siuol7/Project-Overview)
+
 
 <h3 align="left">🔥   My Stats :</h3>
 

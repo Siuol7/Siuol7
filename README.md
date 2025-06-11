@@ -1,4 +1,4 @@
-<img align="right" height="205" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="182" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -20,7 +20,7 @@
 ###
 
 <h1 align="center">Hi, I'm Cao Tan</h1>
-
+  <a href="https://github.com/Siuol7/Project-Overview" target="_blank">
 ###
 
 <h3 align="left"></h3>
@@ -32,6 +32,7 @@
 ###
 
 <h3 align="left"> 🎨 Projects Gallery</h3>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 

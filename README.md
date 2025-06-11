@@ -31,12 +31,7 @@
 
 ###
 
-<h3 align="left">🎨 Projects Gallery</h3>
-<p align="left">
-  👉 <a href="https://github.com/Siuol7/Project-Overview" target="_blank" rel="noopener noreferrer">
-    View All Projects Here
-  </a>
-</p>
+### [🎨 Projects Gallery](https://github.com/Siuol7/Project-Overview)
 
 <h3 align="left">🛠 Language and tools</h3>
 

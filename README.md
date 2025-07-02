@@ -54,5 +54,5 @@
 ###
 ### 🎨 Projects Gallery [View all](https://github.com/Siuol7/Project-Overview)
 
-### 
+### 🔥 Activity this year
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siuol7&theme=tokyonight&v=2)

@@ -57,5 +57,5 @@
 ### 🔥 Activity this year
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siuol7&theme=tokyonight&v=2)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siuol7&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Siuol7&theme=tokyonight&hide_border=true)
 

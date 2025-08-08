@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been working on CPP Modules and heading to ft_irc(Internet Relay Chat)</p>
+<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been finishing ft_irc(Internet Relay Chat)</p>
 
 ###
 

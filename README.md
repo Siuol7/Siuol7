@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been completing ft_irc(Internet Relay Chat) and starting Inception</p>
+<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been completing ft_irc(Internet Relay Chat) and working on Inception</p>
 
 ###
 

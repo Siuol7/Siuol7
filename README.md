@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been working on Inception and learning Docker.</p>
+<p align="left">- I'm currently learning at Hive - 42Network<br><br>- Currently I've been working on Inception and learning Docker</p>
 
 ###
 
